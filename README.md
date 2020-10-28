@@ -1,6 +1,5 @@
 <H3>About Me</h3>
 <p>I am an aspiring self-taught software engineer with ASD. I have been on a long journey with a lot of highs and lows, but every day I am all the stronger for it. Independance is important to me, but I would like to work with others more often. I without exception commit at least 2 hours every day to active learning, because my brain is the most powerful tool I have and needs constant exercise. Three cats, a dog and a bird keep me both on my toes and pretty physically active.</p>
-<br>
 <h3>Goals</h3>
 <h4>Short Term</h4>
 <ul>

@@ -20,6 +20,7 @@
   <th><a href="https://discord.com/invite/EEHg3tJ"><img src="https://discord.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" target="_blank" alt="My Discord Server" width=200 height=68></a></th>
   <th><a href="https://www.twitch.tv/thekeymash"><img src="https://uploads-ssl.webflow.com/5ec93a792b50b6ab9b0bc74f/5ed373c697a20a0add8c26b8_twitch_-%20logo-300x104.png" alt="My Twitch Channel" target="_blank" width=200 height=68></a></th>
   <th><a href="mailto:alex.steane@live.com.au"><img src="https://www.jing.fm/clipimg/detail/97-977363_email-clipart-blue-email-email-icon-blue-svg.png" alt="Email Me" width=100 height=68></a></th>
+  <th><a href="https://www.codewars.com/users/Keymash"><img src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" alt="Codewars" width=68 height=68></a></th>
   </tr></table>
 <!--
 **Keymash/Keymash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -14,6 +14,12 @@
   <li>Renew my drivers license and get my opens</i>
   <li>Build a workshop in the garage</li>
 </ul>
+<h4>End Goals/Dreams</h4>
+<ul>
+  <li>Become a biomechanical engineer, or aerospace engineer</li>
+  <li>Own/build my own lab</li>
+  <li>Own and live on a block of land at least a couple acres</li>
+</ul>
 <br>
 <h3>Social and Contacting Me</h3>
 <table><tr>
@@ -22,17 +28,4 @@
   <th><a href="mailto:alex.steane@live.com.au"><img src="https://www.jing.fm/clipimg/detail/97-977363_email-clipart-blue-email-email-icon-blue-svg.png" alt="Email Me" width=100 height=68></a></th>
   <th><a href="https://www.codewars.com/users/Keymash"><img src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" alt="Codewars" width=68 height=68></a></th>
   </tr></table>
-<!--
-**Keymash/Keymash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
